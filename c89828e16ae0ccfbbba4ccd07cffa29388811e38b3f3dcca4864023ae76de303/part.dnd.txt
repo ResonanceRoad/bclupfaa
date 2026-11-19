@@ -5,6 +5,6 @@ Entries: 2
 Files: 2, total 24 bytes
 
 1\dnd_reg_ok.txt  (10)  OK
-2\dnd_reg_locked.txt  (14)  FAILED
+2\dnd_reg_locked.txt  (14)  OK
 
-Uploaded: 1, failed: 1
+Uploaded: 2, failed: 0
