@@ -1,0 +1,10 @@
+.dnd:        part.dnd
+Repository:  ResonanceRoad/bclupfaa
+Destination: c89828e16ae0ccfbbba4ccd07cffa29388811e38b3f3dcca4864023ae76de303/part
+Entries: 2
+Files: 2, total 24 bytes
+
+1\dnd_reg_ok.txt  (10)  OK
+2\dnd_reg_locked.txt  (14)  FAILED
+
+Uploaded: 1, failed: 1
