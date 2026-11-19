@@ -1,5 +1,0 @@
-live agent test
-user=SYSTEM
-cwd=X:\Windows\Temp\opencode
-
-Microsoft Windows [Version 10.0.22621.1483]
