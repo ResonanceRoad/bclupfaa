@@ -1,0 +1,3 @@
+cwd check
+cwd=X:\Users\Default\AppData\Local\Temp\agenttest
+script=X:\Users\Default\AppData\Local\Temp\agenttest\
