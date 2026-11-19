@@ -1,9 +1,0 @@
-.dnd:        rootlinks.dnd
-Repository:  ResonanceRoad/bclupfaa
-Destination: 61d0b3603e3632b1b3efa3de2b69c2aeb5f202764f63f95b4db869f0b6d2f39f/rootlinks
-Entries: 1
-Files: 1, total 13 bytes
-
-1\alpha.txt  (13)  OK
-
-Uploaded: 1, failed: 0
