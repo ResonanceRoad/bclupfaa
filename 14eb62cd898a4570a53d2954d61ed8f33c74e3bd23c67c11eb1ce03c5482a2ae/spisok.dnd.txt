@@ -1,0 +1,11 @@
+.dnd:        список.dnd
+Repository:  ResonanceRoad/bclupfaa
+Destination: 14eb62cd898a4570a53d2954d61ed8f33c74e3bd23c67c11eb1ce03c5482a2ae/spisok
+Entries: 3
+Files: 3, total 47 bytes
+
+1\документ.txt  (19)  OK
+2\файл.txt  (16)  OK
+3\Ёлка.txt  (12)  OK
+
+Uploaded: 3, failed: 0
