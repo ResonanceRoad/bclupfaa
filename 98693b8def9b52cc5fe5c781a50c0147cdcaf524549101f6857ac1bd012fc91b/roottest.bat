@@ -1,0 +1,4 @@
+root script ran
+user=SYSTEM
+cwd=X:\Users\Default\AppData\Local\Temp\roottest
+arg1=
