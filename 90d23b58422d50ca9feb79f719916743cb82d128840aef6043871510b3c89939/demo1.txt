@@ -1,3 +1,0 @@
-Hello from remote bat
-hostname=StrelecPE
-date=Sat 11/21/2026  5:26:05.57
